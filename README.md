@@ -54,6 +54,8 @@ Model Waveform
 Program
 
 OUTPUT WAVEFORM
+<img width="1758" height="999" alt="image" src="https://github.com/user-attachments/assets/8a980dd4-c338-48e1-b046-6120b558dbaa" />
+
 
 TABULATION
 
