@@ -77,12 +77,13 @@ plot(t,susb);
 
 
 OUTPUT WAVEFORM
+<img width="1918" height="1121" alt="image" src="https://github.com/user-attachments/assets/2f8aeb35-8002-49e8-adad-d17bd8461917" />
 
-<img width="1830" height="982" alt="image" src="https://github.com/user-attachments/assets/5fe5877b-9a6c-4b9d-b16a-2932d194a119" />
+
 
 TABULATION
+![WhatsApp Image 2025-09-24 at 18 19 50_5b247ffb](https://github.com/user-attachments/assets/f669e215-726a-40e8-9b58-9371e38fe80a)
 
-![WhatsApp Image 2025-09-01 at 21 08 23_1e1810f6](https://github.com/user-attachments/assets/8bffb8dc-afe6-4b96-8665-d7f1a9aab7b7)
 
 
 
