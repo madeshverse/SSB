@@ -52,11 +52,11 @@ Model Waveform
 <img width="706" height="167" alt="image" src="https://github.com/user-attachments/assets/bff0d8fd-d679-444e-af37-0b34585853c1" />
 
 Program
-am = 6.0;
-fm = 454;
-ac = 4;
-fc = 3120;
-fs = 31200;
+am = 6.2;
+fm = 474;
+ac = 12.4;
+fc = 4740;
+fs = 47400;
 t = 0:1/fs:3/fm;
 m1=am*cos(2*3.14*fm*t);
 subplot(4,1,1);
@@ -80,6 +80,7 @@ OUTPUT WAVEFORM
 
 <img width="1918" height="1121" alt="image" src="https://github.com/user-attachments/assets/2f8aeb35-8002-49e8-adad-d17bd8461917" />
 TABULATION
+
 
 ![WhatsApp Image 2025-09-24 at 18 19 50_5b247ffb](https://github.com/user-attachments/assets/f669e215-726a-40e8-9b58-9371e38fe80a)
 
