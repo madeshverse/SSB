@@ -77,11 +77,10 @@ plot(t,susb);
 
 
 OUTPUT WAVEFORM
+
 <img width="1918" height="1121" alt="image" src="https://github.com/user-attachments/assets/2f8aeb35-8002-49e8-adad-d17bd8461917" />
-
-
-
 TABULATION
+
 ![WhatsApp Image 2025-09-24 at 18 19 50_5b247ffb](https://github.com/user-attachments/assets/f669e215-726a-40e8-9b58-9371e38fe80a)
 
 
